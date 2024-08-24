@@ -1,7 +1,12 @@
-
-![IMG_20240824_165126_207](https://github.com/user-attachments/assets/83b5e68b-66b0-470a-9dac-81e7e234ea7c)
+![image](https://github.com/user-attachments/assets/a361559a-7339-4f16-9fd2-17a5eed4f06d)
 
 VPC Console - Resource Map
-![image](https://github.com/user-attachments/assets/1e9302f2-c3c5-4919-9bd0-416043a37fd1)
+![Screenshot from 2024-08-24 17-18-57](https://github.com/user-attachments/assets/f1522553-8a68-4182-8062-fa5226a19a2f)
+
+Terraform State List
+![Screenshot from 2024-08-24 17-17-55](https://github.com/user-attachments/assets/c7c2333a-be1d-4b62-9f28-386daaa91f1f)
+
+
+
 
 
