@@ -1,4 +1,4 @@
-# VPC Console Road Map
+# VPC Console Resource Map
 ![image](https://github.com/user-attachments/assets/0320bdab-18ac-4e98-86f1-6f6fedefbdb7)
 
 # Terraform state list
