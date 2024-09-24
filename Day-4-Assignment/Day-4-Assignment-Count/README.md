@@ -4,3 +4,6 @@
 # Terraform state list
 ![image](https://github.com/user-attachments/assets/b7453b5f-4012-443d-8473-1ebc9d63c6c2)
 
+# Notion
+https://www.notion.so/Day-4-bf4f57572f0646aca81185dfd26db984?pvs=4
+
