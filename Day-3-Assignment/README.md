@@ -7,6 +7,10 @@
 # Terraform State List
 ![Screenshot from 2024-08-24 17-17-55](https://github.com/user-attachments/assets/3300281d-dedd-4688-83fc-8072e68c789e)
 
+# notion
+https://www.notion.so/Day-3-5b9cc1296a794985a77083119cf9fed3?pvs=4
+
+
 
 
 
